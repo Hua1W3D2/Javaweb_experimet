@@ -1,2 +1,2 @@
 # Javaweb_experimet
-这是一个用于保存Javaweb实验代码的仓库
+This is a repository for storing Java Web lab codes.
